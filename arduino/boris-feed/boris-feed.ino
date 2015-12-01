@@ -37,7 +37,6 @@
  */
 Servo myservo;
 
-int incomingByte = 0;
 unsigned int tmpTime = 0;
 int nbElapsedFeeds = 0;
 const unsigned int TIME_BETWEEN_FEEDS = (TIME_BETWEEN_FEEDS_IN_MINUTES * 60 * 1000);
