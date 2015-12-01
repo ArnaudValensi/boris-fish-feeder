@@ -17,6 +17,10 @@ All the parts can be assembled with M3 screws.
 
 All parts are available in stl and 123dx format in the `models` folder.
 
+### All
+
+![](img/all.png?raw=true)
+
 ### 01_circle
 
 ![](img/01_circle.png?raw=true)
