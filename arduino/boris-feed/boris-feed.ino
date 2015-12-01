@@ -45,9 +45,6 @@ const unsigned int TIME_BETWEEN_FEEDS = (TIME_BETWEEN_FEEDS_IN_MINUTES * 60 * 10
 /**
  * Setup
  */
-#define p(x)  Serial.print(x);
-#define pln(x)  Serial.println(x);
- 
 void setup() {
   Serial.begin(9600);
   myservo.attach(SERVO_PIN);
