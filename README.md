@@ -47,4 +47,4 @@ All parts are available in stl and 123dx format in the `models` folder.
 
 ## Arduino
 
-The code is available in the arduino folder
+The code is available in the arduino folder.
